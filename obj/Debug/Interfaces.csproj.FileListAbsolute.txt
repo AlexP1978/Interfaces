@@ -1,0 +1,6 @@
+C:\Disk_D\Asp.Net\Study_CSharp\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Disk_D\Asp.Net\Study_CSharp\Interfaces\bin\Debug\Interfaces.exe
+C:\Disk_D\Asp.Net\Study_CSharp\Interfaces\bin\Debug\Interfaces.pdb
+C:\Disk_D\Asp.Net\Study_CSharp\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Disk_D\Asp.Net\Study_CSharp\Interfaces\obj\Debug\Interfaces.exe
+C:\Disk_D\Asp.Net\Study_CSharp\Interfaces\obj\Debug\Interfaces.pdb
